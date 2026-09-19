@@ -1,19 +1,14 @@
-```jsx
 function About() {
   return (
     <section id="about" className="section-padding">
-
       <div className="container">
-
         <div className="section-title">
           <p>GET TO KNOW ME</p>
           <h2>About Me</h2>
         </div>
 
         <div className="row align-items-center">
-
           <div className="col-lg-6">
-
             <h3>Who I Am</h3>
 
             <p>
@@ -34,13 +29,10 @@ function About() {
               growing as a developer and build useful digital solutions
               while gaining more experience in the technology industry.
             </p>
-
           </div>
 
           <div className="col-lg-6">
-
             <div className="about-card">
-
               <h4>Currently Learning</h4>
 
               <ul>
@@ -50,19 +42,12 @@ function About() {
                 <li>Git & GitHub</li>
                 <li>Bootstrap</li>
               </ul>
-
             </div>
-
           </div>
-
         </div>
-
       </div>
-
     </section>
   );
 }
 
 export default About;
-```
-
